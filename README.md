@@ -9,7 +9,7 @@ This is a great entry point into testing with JS. This allowed me to apply my us
 2. **BDD - Why use it?**
 
 The reasoning behind using Behavior Driven Development format is pretty simple:
-Create reusable steps that still fit testing standard/best practices. This allows for automated test engineers to save a plethora of time, while not sacrificing quality. Not only that, you are given an easier, more direct approach to debugging.
+Create reusable steps that still fit testing standard/best practices. This allows for automated test engineers to save a plethora of time, while not sacrificing quality. Not only that, you are given an easier, more direct approach to debugging. To you all though, it'll look like a hot mess, as I did not separate steps into page objects.
 
 3. **selenium-webdriver and selenium-standalone**
 
